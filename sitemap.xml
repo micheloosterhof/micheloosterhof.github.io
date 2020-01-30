@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.micheloosterhof.com/tags/iso8601/</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.micheloosterhof.com/</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -12,7 +19,15 @@
   <url>
     <loc>https://www.micheloosterhof.com/posts/</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.micheloosterhof.com/tags/splunk/</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -25,19 +40,15 @@
   <url>
     <loc>https://www.micheloosterhof.com/tags/</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.micheloosterhof.com/tags/iso8601/</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.micheloosterhof.com/tags/splunk/</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.micheloosterhof.com/tags/cowrie/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -48,27 +59,24 @@
   </url>
   
   <url>
-    <loc>https://www.micheloosterhof.com/tags/cowrie/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.micheloosterhof.com/tags/honeypot/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.micheloosterhof.com/tags/ssh/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.micheloosterhof.com/tags/telnet/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -79,7 +87,8 @@
   
   <url>
     <loc>https://www.micheloosterhof.com/categories/</loc>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -90,7 +99,8 @@
   
   <url>
     <loc>https://www.micheloosterhof.com/series/</loc>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
