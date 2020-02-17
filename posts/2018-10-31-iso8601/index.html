@@ -36,14 +36,14 @@ Practically this means Splunk will stop indexing parts of the timestamp, and you
       <link rel="canonical" href="https://www.micheloosterhof.com/posts/2018-10-31-iso8601/">
     
 
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
 
     
       
       
-      <link rel="stylesheet" href="/css/coder.min.28d751104f30c16da1aa1bb04015cbe662cacfe0d1b01af4f2240ad58580069c.css" integrity="sha256-KNdREE8wwW2hqhuwQBXL5mLKz&#43;DRsBr08iQK1YWABpw=" crossorigin="anonymous" media="screen" />
+      <link rel="stylesheet" href="/css/coder.min.ab11da33926aff1bbed738198c81361e84bf702098a3e97ed5b24126bde6c9ba.css" integrity="sha256-qxHaM5Jq/xu&#43;1zgZjIE2HoS/cCCYo&#43;l&#43;1bJBJr3mybo=" crossorigin="anonymous" media="screen" />
     
 
     
@@ -59,7 +59,7 @@ Practically this means Splunk will stop indexing parts of the timestamp, and you
     <link rel="icon" type="image/png" href="https://www.micheloosterhof.com/images/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="https://www.micheloosterhof.com/images/favicon-16x16.png" sizes="16x16">
 
-    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="generator" content="Hugo 0.64.0" />
   </head>
 
   
@@ -132,13 +132,10 @@ Practically this means Splunk will stop indexing parts of the timestamp, and you
         
         <p>Recently I read an excellent article by Duane Waddle on
 <a href="https://www.duanewaddle.com/splunk-bucket-lexicons-and-segmentation/">splunk bucket lexicons and segmentation</a>.</p>
-
 <p>This inspired to put a small app on SplunkBase that improves the default settings to ignore
 <a href="https://www.iso.org/iso-8601-date-and-time-format.html">ISO8601 date and time stamps</a> in the searchable lexicon
 in Splunk.</p>
-
 <p>Practically this means Splunk will stop indexing parts of the timestamp, and you can no longer search for terms like <code>2018</code>. Because this significantly reduces the index, this should save you a good amount of disk space.</p>
-
 <p>The app is available as <a href="https://splunkbase.splunk.com/app/4095/">ISO8601 Segmenter Configuration</a> and full source is at the <a href="https://github.com/micheloosterhof/iso8601">github repository</a>.</p>
 
       </div>
@@ -186,6 +183,8 @@ if (!doNotTrack) {
 }
 </script>
 
+
+    
 
   </body>
 
