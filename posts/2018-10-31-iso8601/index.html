@@ -7,25 +7,19 @@
     <meta http-equiv="Content-Language" content="en">
 
     
-    <meta name="description" content="Recently I read an excellent article by Duane Waddle on splunk bucket lexicons and segmentation.
-This inspired to put a small app on SplunkBase that improves the default settings to ignore ISO8601 date and time stamps in the searchable lexicon in Splunk.
-Practically this means Splunk will stop indexing parts of the timestamp, and you can no longer search for terms like 2018. Because this significantly reduces the index, this should save you a good amount of disk space.">
+    <meta name="description" content="In which we introduce an app that uses Splunk&#39;s features to reduce the index size and make searching faster by ignoring timestamps">
     <meta name="keywords" content="blog,personal,security,splunk,cowrie,honeypots">
 
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Splunk Segmenter config for ISO8601 dates"/>
-<meta name="twitter:description" content="Recently I read an excellent article by Duane Waddle on splunk bucket lexicons and segmentation.
-This inspired to put a small app on SplunkBase that improves the default settings to ignore ISO8601 date and time stamps in the searchable lexicon in Splunk.
-Practically this means Splunk will stop indexing parts of the timestamp, and you can no longer search for terms like 2018. Because this significantly reduces the index, this should save you a good amount of disk space."/>
+<meta name="twitter:description" content="In which we introduce an app that uses Splunk&#39;s features to reduce the index size and make searching faster by ignoring timestamps"/>
 
     <meta property="og:title" content="Splunk Segmenter config for ISO8601 dates" />
-<meta property="og:description" content="Recently I read an excellent article by Duane Waddle on splunk bucket lexicons and segmentation.
-This inspired to put a small app on SplunkBase that improves the default settings to ignore ISO8601 date and time stamps in the searchable lexicon in Splunk.
-Practically this means Splunk will stop indexing parts of the timestamp, and you can no longer search for terms like 2018. Because this significantly reduces the index, this should save you a good amount of disk space." />
+<meta property="og:description" content="In which we introduce an app that uses Splunk&#39;s features to reduce the index size and make searching faster by ignoring timestamps" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.micheloosterhof.com/posts/2018-10-31-iso8601/" />
 <meta property="article:published_time" content="2018-10-31T00:00:00+00:00" />
-<meta property="article:modified_time" content="2018-10-31T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-05-12T23:38:37+08:00" />
 
 
     
@@ -62,7 +56,7 @@ Practically this means Splunk will stop indexing parts of the timestamp, and you
     <link rel="icon" type="image/png" href="https://www.micheloosterhof.com/images/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="https://www.micheloosterhof.com/images/favicon-16x16.png" sizes="16x16">
 
-    <meta name="generator" content="Hugo 0.69.0" />
+    <meta name="generator" content="Hugo 0.70.0" />
   </head>
 
   
