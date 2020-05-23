@@ -17,14 +17,9 @@
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.micheloosterhof.com/posts/2018-10-31-iso8601/</guid>
-      <description>&lt;p&gt;Recently I read an excellent article by Duane Waddle on
-&lt;a href=&#34;https://www.duanewaddle.com/splunk-bucket-lexicons-and-segmentation/&#34;&gt;splunk bucket lexicons and segmentation&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This inspired to put a small app on SplunkBase that improves the default settings to ignore
-&lt;a href=&#34;https://www.iso.org/iso-8601-date-and-time-format.html&#34;&gt;ISO8601 date and time stamps&lt;/a&gt; in the searchable lexicon
-in Splunk.&lt;/p&gt;
-&lt;p&gt;Practically this means Splunk will stop indexing parts of the timestamp, and you can no longer search for terms like &lt;code&gt;2018&lt;/code&gt;. Because this significantly reduces the index, this should save you a good amount of disk space.&lt;/p&gt;
-&lt;p&gt;The app is available as &lt;a href=&#34;https://splunkbase.splunk.com/app/4095/&#34;&gt;ISO8601 Segmenter Configuration&lt;/a&gt; and full source is at the &lt;a href=&#34;https://github.com/micheloosterhof/iso8601&#34;&gt;github repository&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Recently I read an excellent article by Duane Waddle on splunk bucket lexicons and segmentation.
+This inspired to put a small app on SplunkBase that improves the default settings to ignore ISO8601 date and time stamps in the searchable lexicon in Splunk.
+Practically this means Splunk will stop indexing parts of the timestamp, and you can no longer search for terms like 2018. Because this significantly reduces the index, this should save you a good amount of disk space.</description>
     </item>
     
   </channel>
