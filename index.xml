@@ -33,15 +33,14 @@ If you want to know more, join us on the Cowrie Slack.</description>
     </item>
     
     <item>
-      <title>Michel Oosterhof</title>
-      <link>https://www.micheloosterhof.com/test/</link>
+      <title>Cookie Policy</title>
+      <link>https://www.micheloosterhof.com/cookie-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.micheloosterhof.com/test/</guid>
-      <description>Welcome to my blog with some of my work in progress.
-{{ .Page.Lastmod.Format “02/01/2006” }}
-{{ .Lastmod }}
-Last Update: 01 January 0001  </description>
+      <guid>https://www.micheloosterhof.com/cookie-policy/</guid>
+      <description>Cookies A cookie is a small text file which is automatically saved on your computer when you visit our website and is used to help track activity across a website. micheloosterhof.com uses cookies on our website for the following purposes:
+Google Analytics We use Google Analytics to help provide anonymous web analytics for our website.
+   Name Description Expiration     _ga Used to distinguish users 2years   _gid ?</description>
     </item>
     
     <item>
