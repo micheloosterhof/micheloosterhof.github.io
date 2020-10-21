@@ -6,11 +6,7 @@
     <description>Recent content in honeypot on @micheloosterhof</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.micheloosterhof.com/tags/honeypot/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.micheloosterhof.com/tags/honeypot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cowrie Honeypot</title>
       <link>https://www.micheloosterhof.com/posts/2018-10-30-cowrie.org/</link>
