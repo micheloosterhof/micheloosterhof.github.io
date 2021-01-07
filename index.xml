@@ -40,18 +40,6 @@ Google Analytics We use Google Analytics to help provide anonymous web analytics
     </item>
     
     <item>
-      <title>Michel Oosterhof</title>
-      <link>https://www.micheloosterhof.com/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.micheloosterhof.com/test/</guid>
-      <description>Welcome to my blog with some of my work in progress.
-{{ .Page.Lastmod.Format “02/01/2006” }}
-{{ .Lastmod }}
-Last Update: 01 January 0001  </description>
-    </item>
-    
-    <item>
       <title>Thanks!</title>
       <link>https://www.micheloosterhof.com/contact/thanks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
