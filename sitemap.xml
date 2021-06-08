@@ -1,122 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.micheloosterhof.com/tags/iso8601/</loc>
     <lastmod>2020-05-12T23:38:37+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.micheloosterhof.com/posts/</loc>
     <lastmod>2020-05-12T23:38:37+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.micheloosterhof.com/tags/splunk/</loc>
     <lastmod>2020-05-12T23:38:37+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.micheloosterhof.com/posts/2018-10-31-iso8601/</loc>
     <lastmod>2020-05-12T23:38:37+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.micheloosterhof.com/tags/</loc>
     <lastmod>2020-05-12T23:38:37+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.micheloosterhof.com/tags/cowrie/</loc>
     <lastmod>2019-07-19T16:53:14+04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.micheloosterhof.com/posts/2018-10-30-cowrie.org/</loc>
     <lastmod>2019-07-19T16:53:14+04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.micheloosterhof.com/tags/honeypot/</loc>
     <lastmod>2019-07-19T16:53:14+04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.micheloosterhof.com/tags/ssh/</loc>
     <lastmod>2019-07-19T16:53:14+04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.micheloosterhof.com/tags/telnet/</loc>
     <lastmod>2019-07-19T16:53:14+04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.micheloosterhof.com/about/</loc>
-    <lastmod>2020-10-22T10:18:54+08:00</lastmod>
+    <lastmod>2021-02-16T21:39:55+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.micheloosterhof.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.micheloosterhof.com/contact/</loc>
     <lastmod>2020-03-14T11:23:40+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.micheloosterhof.com/cookie-policy/</loc>
     <lastmod>2020-07-13T21:10:51+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.micheloosterhof.com/</loc>
     <lastmod>2019-07-19T16:30:43+04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.micheloosterhof.com/series/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.micheloosterhof.com/contact/thanks/</loc>
     <lastmod>2020-05-10T10:30:42+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  
 </urlset>
